@@ -5,6 +5,8 @@ int main(){
   int a = 10;
   int b = 20;
   
-  cout<<a+b<<endl;
+  int sum = a+b;
+  
+  cout<<sum<<endl;
   
 }
