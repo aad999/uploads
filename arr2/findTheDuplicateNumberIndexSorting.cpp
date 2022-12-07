@@ -25,7 +25,7 @@ assuming all elements of being unique
 our sorted array must look like
 
 nums[0] nums[1] nums[2] nums[3] nums[4] nums[5] ...
-    0       1       2       3       4       5
+    1       2       3       4       5       6
 
 say in our array, nums[i] = i + 1
     that means nums[i] is in correct position

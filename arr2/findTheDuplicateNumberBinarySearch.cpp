@@ -43,7 +43,7 @@ else our required number is more than mid
 
 Using binary search
 
-TC  O(logN)
+TC  O(Nlog(N))
 SC  O(1)
 
 */
